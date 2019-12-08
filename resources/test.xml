@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Super Nurser">
+    <test name="Functional">
+        <classes>
+            <class name="Setup" />
+            <class name="MainClass"/>
+            <class name="CreatePatient"/>
+        </classes>
+    </test>
+</suite>
